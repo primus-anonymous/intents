@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lesson5</string>
+    <string name="btn_auth">Authorize</string>
+    <string name="need_auth">You need to authorize to use our app!</string>
+    <string name="btn_do_auth">Do auth!</string>
+    <string name="you_can_use_app">You can use the app</string>
+    <string name="btn_help">Help</string>
+</resources>
